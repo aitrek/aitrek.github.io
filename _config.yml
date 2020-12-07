@@ -22,6 +22,7 @@ github_username: aitrek
 minimal_mistakes_skin: default
 search: true
 locale: zh-CN
+teaser: /assets/images/t0.jpg
 
 # Build settings
 markdown: kramdown
