@@ -116,3 +116,6 @@ tag_archive:
 
 # Breadcrumb navigation
 breadcrumbs: true
+
+# show post dates
+show_date: true
