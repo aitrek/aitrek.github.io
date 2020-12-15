@@ -18,6 +18,8 @@ email: zhaojianqiang@foxmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   To bodly go where no man has gone before.
 url: "https://aitrek.github.io"
+repository: "aitrek/aitrek.github.io"
+show_drafts: true
 twitter_username: username
 github_username: aitrek
 minimal_mistakes_skin: default
@@ -126,5 +128,3 @@ comments:
   utterances:
     theme: "github-light" # "github-dark"
     issue_term: "pathname"
-
-repository: "aitrek/aitrek.github.io"
