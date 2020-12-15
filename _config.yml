@@ -121,8 +121,8 @@ breadcrumbs: true
 
 comments:
   provider: "utterances"
-    utterances:
-      theme: "github-light" # "github-dark"
-      issue_term: "pathname"
+  utterances:
+    theme: "github-light" # "github-dark"
+    issue_term: "pathname"
 
 repository: aitrek/aitrek.github.io
