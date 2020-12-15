@@ -126,4 +126,4 @@ comments:
     theme: "github-light" # "github-dark"
     issue_term: "pathname"
 
-repository: aitrek/aitrek.github.io
+repository: "aitrek/aitrek.github.io"
