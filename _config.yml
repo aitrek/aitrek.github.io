@@ -128,3 +128,9 @@ comments:
   utterances:
     theme: "github-light" # "github-dark"
     issue_term: "pathname"
+
+# Collections
+collections:
+  portfolio:
+    output: true
+    permalink: /:collection/:path/
