@@ -28,11 +28,6 @@ search: true
 locale: "zh-CN"
 teaser: /assets/images/t0.jpg
 
-layout: splash
-classes:
-  - landing
-  - dark-theme
-
 # Build settings
 markdown: kramdown
 remote_theme: mmistakes/minimal-mistakes
